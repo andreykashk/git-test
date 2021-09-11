@@ -2,3 +2,8 @@
   font-size: 1.2rem;
   color: brown;
 }
+
+.first-btn {
+  background-color: rgb(99, 113, 173);
+  border: 1px solid rgb(18, 24, 114);
+}
